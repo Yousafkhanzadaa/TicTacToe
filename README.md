@@ -1,2 +1,2 @@
 # tictactoe
-This a simple game for Beginners. Kotlin is used in this project.
+This a simple game for Beginners, build in android studio with Kotlin programming language.
